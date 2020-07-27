@@ -1,0 +1,10 @@
+<?php
+DEFINE("HOST", "LOCALHOST");
+DEFINE("USER", "root");
+DEFINE("PASS", "");
+DEFINE("DB_NAME", "indigene");
+
+
+
+
+?>
